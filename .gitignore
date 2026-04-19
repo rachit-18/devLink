@@ -1,0 +1,10 @@
+﻿.env
+backend/.env
+backend/venv/
+frontend/node_modules/
+frontend/.next/
+frontend/.turbo/
+__pycache__/
+*.pyc
+*.pyo
+*.log

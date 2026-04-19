@@ -1,0 +1,9 @@
+﻿fastapi
+uvicorn[standard]
+python-dotenv
+qdrant-client
+sentence-transformers
+google-generativeai
+PyGithub
+langgraph
+pydantic
