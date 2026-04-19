@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# DevLink
 
 DevLink is an AI-assisted code workspace that indexes a repository into Qdrant, retrieves relevant code snippets, and answers questions with Gemini inside a developer-focused Next.js UI.
@@ -77,3 +78,6 @@ curl -X POST http://localhost:8000/actions/refactor/preview -H "Content-Type: ap
 ```bash
 curl -X POST http://localhost:8000/actions/refactor/apply -H "Content-Type: application/json" -d "{\"proposal_id\":\"<proposal-id>\",\"approve\":true}"
 ```
+=======
+# devLink
+>>>>>>> 489ed6311d08b66333deac63434a591e2b33a624
